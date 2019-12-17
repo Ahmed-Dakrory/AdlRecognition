@@ -11,7 +11,7 @@ setuptools.setup(
     description="Classification of Activities of Daily Living(ADL) using depth videos and audio",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/RivinduM/AssistedLivingSystem",
+    url="https://github.com/RivinduM/AdlRecognition",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
